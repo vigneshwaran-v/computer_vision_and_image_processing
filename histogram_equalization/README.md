@@ -8,7 +8,7 @@ Input image:
 
 histogram equalized image:
 
-![output_image](Images/histogram_equalized_image.png.jpg)
+![output_image](Images/histogram_equalized_image.png)
 
 
 Plots:
