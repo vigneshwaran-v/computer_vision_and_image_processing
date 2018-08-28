@@ -8,6 +8,7 @@ Created on Sun Jun 17 14:35:31 2018
 import numpy as np
 import cv2 
 import matplotlib.pyplot as plt
+from PIL import Image
 
 
 #loading the input image
@@ -89,7 +90,7 @@ plt.show()
 #histogram - equalized - output image
 plt.xlabel("Pixel intensity value")
 plt.ylabel("Number of pixels")
-plt.title("Histogram - Equalized (output image)")
+plt.title("Equalized_Histogram (output image)")
 x=np.arange(max_value+1)
 plt.bar(x,H_E,align='center')
 plt.xticks(np.arange(0,max_value+1,25))
