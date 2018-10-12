@@ -1,6 +1,6 @@
 # Stereo Vision
 
-1. Disparity estimation using block matching:
+1.Disparity estimation using block matching:
 
 Left disparity map – using 3x3 block:
 
@@ -54,7 +54,7 @@ Right cosnistency checked depth map 3x3 MSE= 119.98259487683984
 Right cosnistency checked depth map 9x9 MSE= 57.0862001672707
 
 
-2. Disparity estimation using Dynamic Programming:
+2.Disparity estimation using Dynamic Programming:
 
 Left disparity map:
 
