@@ -24,11 +24,11 @@ Edge detected images:
 
 ![output_image_x_1d](output/Gx_1d.png)
 
-5) Edges detected in the y direction using 2d convolution with sobel filter
+5) Edges detected in the y direction using 1d convolution with sobel filter
 
 ![output_image_y_1d](output/Gy_1d.png)
 
-6) Final output of 2d convolution with sobel filter
+6) Final output of 1d convolution with sobel filter
 
 ![output_image_1d](output/G_1d.png)
 
